@@ -1,0 +1,1 @@
+{"version":3,"file":"register-auth.dto.js","sourceRoot":"","sources":["../../../src/auth/dto/register-auth.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAAiE;AAEjE,MAAa,eAAe;IAG1B,KAAK,CAAS;IAId,QAAQ,CAAS;CAClB;AARD,0CAQC;AALC;IAFC,IAAA,yBAAO,GAAE;IACT,IAAA,4BAAU,GAAE;;8CACC;AAId;IAFC,IAAA,4BAAU,GAAE;IACZ,IAAA,2BAAS,EAAC,CAAC,EAAE,EAAE,OAAO,EAAE,6CAA6C,EAAE,CAAC;;iDACxD"}
